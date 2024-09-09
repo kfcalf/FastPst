@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastPst", "FastPst.csproj", "{3E1A5114-E26C-44EC-8EB5-E72024425EDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E1A5114-E26C-44EC-8EB5-E72024425EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E1A5114-E26C-44EC-8EB5-E72024425EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E1A5114-E26C-44EC-8EB5-E72024425EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E1A5114-E26C-44EC-8EB5-E72024425EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {348B4826-C9AF-4B3E-9066-DDC8353FC83D}
+	EndGlobalSection
+EndGlobal
